@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>elm-web-worker</title>
+  </head>
+
+  <body>
+    <h1>elm-web-worker</h1>
+    <p>
+      This app demonstrates how to send messages to and from a
+      <a href="https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API">Web Worker</a>
+      when using Elm. All this application does is send 10 messages to the
+      worker which responds to each message by sending a message itself. Each
+      time the main application receives a message, it increments its counter
+      which you see below.
+    </p>
+    <div id="root" />
+    <script src="app.js"></script>
+  </body>
+</html>
