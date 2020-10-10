@@ -4,7 +4,8 @@
   "description": "How to communicate with a Web Worker in Elm",
   "main": "app.js",
   "scripts": {
-    "start": "parcel index.html --no-hmr"
+    "start": "parcel index.html --no-hmr",
+    "prod": "parcel build index.html"
   },
   "author": "Christoph Rüßler <christoph.ruessler@mailbox.org>",
   "license": "MIT",
