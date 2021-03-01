@@ -11,7 +11,7 @@
   "license": "MIT",
   "devDependencies": {
     "elm": "^0.19.1-5",
-    "elm-format": "^0.8.4",
+    "elm-format": "^0.8.5",
     "node-elm-compiler": "^5.0.5",
     "parcel": "^2.0.0-nightly.560"
   }
