@@ -10,10 +10,10 @@
   "author": "Christoph Rüßler <christoph.ruessler@mailbox.org>",
   "license": "MIT",
   "devDependencies": {
-    "@parcel/transformer-elm": "^2.0.0-nightly.2251",
+    "@parcel/transformer-elm": "^2.0.0-beta.3.1",
     "elm": "^0.19.1-5",
     "elm-format": "^0.8.5",
     "node-elm-compiler": "^5.0.5",
-    "parcel": "^2.0.0-nightly.627"
+    "parcel": "^2.0.0-beta.3.1"
   }
 }
